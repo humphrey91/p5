@@ -21,9 +21,13 @@ Or install it yourself as:
 ## Usage
 
 After installing the gem, simply generate a sketch.js, and index.html with:
-$rails generate p5
+
+    $rails generate p5
 or
-$rails g p5
+
+    $rails g p5
+
+
 Lastly, in your application.js add:
 //= require p5
 
